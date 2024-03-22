@@ -8,20 +8,7 @@ Translation result
 
 
 
-Translation types
-Text translation
-Source text
-Wéndàng | xiàoguǒ | běn cāngkù de gitee jìngxiàng zànzhù shāng zànzhù shāng (jìnrù zànzhù shāng sǎo mǎ zhùcè kě wéi běn xiàngmù zuòzhě chōngdiàn ~) jièshào zhège zhǔtí de chūzhōng shì dǎzào yīgè hǎo yòng de, miànxiàng chéngxù yuán de zhīshì guǎnlǐ gōngjù qīngsōng gòujiàn yīgè jiégòu huà de zhīshì kù, ràng nǐ de zhīshì hǎiyáng xiàng yī běn běn shū yīyàng qīngxī yì dú. Bókè gōngnéng tígōng yī zhǒng zhīshì de suìpiàn huà xíngtài, bìng zhīchí gèxìng huà bókè pèizhì. Jiǎnjié gāoxiào, yǐ Markdown wéi zhōngxīn de xiàngmù jiégòu. Nèizhì zìdònghuà gōngjù, yǐ gèng shǎo de pèizhì wánchéng gèng duō de shì. Pèihé duōwéi suǒyǐn kuàisù dìngwèi měi gè zhīshì diǎn. Gēngxīn rìzhì zhège zhǔtí kěyǐ zuò shénme? Ànlì 1: Zhīshì kù jiān bókè zhàn ànlì 2: Jǐn bókè zhàn ànlì 3: Jǐn zhīshì kù ànlì 4: Wéndàng zhàn kuàisù shàngshǒu
-Show more
-308 / 5,000
-Translation results
-Translation result
-Documentation | Effect | gitee mirror of this repository
 
-
-Sponsor
-
-Sponsor
 
 (Enter the sponsor and scan the QR code to register to charge the author of this project~)
 introduce
