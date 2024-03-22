@@ -1,3 +1,9 @@
+Translation types
+Text translation
+Source text
+4,644 / 5,000
+Translation results
+Translation result
 <p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
 
 <p align="center">
@@ -110,3 +116,6 @@ npm run dev # or yarn dev
 [MIT](https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE)
 
 Copyright (c) 2019-present Evan Xu
+Send feedback
+Side panels
+Translation results available 
