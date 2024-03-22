@@ -6,6 +6,45 @@ Translation results
 Translation result
 <p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
 
+
+
+Translation types
+Text translation
+Source text
+Wéndàng | xiàoguǒ | běn cāngkù de gitee jìngxiàng zànzhù shāng zànzhù shāng (jìnrù zànzhù shāng sǎo mǎ zhùcè kě wéi běn xiàngmù zuòzhě chōngdiàn ~) jièshào zhège zhǔtí de chūzhōng shì dǎzào yīgè hǎo yòng de, miànxiàng chéngxù yuán de zhīshì guǎnlǐ gōngjù qīngsōng gòujiàn yīgè jiégòu huà de zhīshì kù, ràng nǐ de zhīshì hǎiyáng xiàng yī běn běn shū yīyàng qīngxī yì dú. Bókè gōngnéng tígōng yī zhǒng zhīshì de suìpiàn huà xíngtài, bìng zhīchí gèxìng huà bókè pèizhì. Jiǎnjié gāoxiào, yǐ Markdown wéi zhōngxīn de xiàngmù jiégòu. Nèizhì zìdònghuà gōngjù, yǐ gèng shǎo de pèizhì wánchéng gèng duō de shì. Pèihé duōwéi suǒyǐn kuàisù dìngwèi měi gè zhīshì diǎn. Gēngxīn rìzhì zhège zhǔtí kěyǐ zuò shénme? Ànlì 1: Zhīshì kù jiān bókè zhàn ànlì 2: Jǐn bókè zhàn ànlì 3: Jǐn zhīshì kù ànlì 4: Wéndàng zhàn kuàisù shàngshǒu
+Show more
+308 / 5,000
+Translation results
+Translation result
+Documentation | Effect | gitee mirror of this repository
+
+
+Sponsor
+
+Sponsor
+
+(Enter the sponsor and scan the QR code to register to charge the author of this project~)
+introduce
+
+     The original intention of this theme is to create a useful knowledge management tool for programmers
+     Easily build a structured knowledge base, making your ocean of knowledge as clear and easy to read as a book.
+     The blog function provides a fragmented form of knowledge and supports personalized blog configuration.
+     Simple and efficient, Markdown-centered project structure. Built-in automation tools to accomplish more with less configuration. Use multi-dimensional index to quickly locate each knowledge point.
+
+Change log
+What can be done with this theme?
+
+     Case 1: Knowledge base and blog site
+     Case 2: Blog site only
+     Case 3: Knowledge base only
+     Case 4: Document Station
+
+Get started quickly
+Send feedback
+Side panels
+Translation results available
+
+
 <p align="center">
   <a href="https://www.npmjs.com/package/vuepress-theme-vdoing"><img alt="npm" src="https://img.shields.io/npm/v/vuepress-theme-vdoing"></a>
    <a href="https://www.npmjs.com/package/vuepress-theme-vdoing" target="_blank"><img src="https://img.shields.io/npm/dt/vuepress-theme-vdoing" alt="npm" ></a>
